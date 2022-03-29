@@ -1,11 +1,12 @@
-### Oláaa, me chamo Bianca Terumi =)
-- 🌱 Aprendendo JavaScript
+### 🌸 Oláaa, me chamo Bianca Terumi =)
+- 🖥️ Aprendendo JavaScript
 
-- 😄 Pronomes: Ela/dela
+- ❤️ Pronomes: Ela/dela
 <div style="display: inline_block"><br>
   <img align="center" alt="Bibi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bibi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bibi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Bibi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Bibi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/411331213085638677/958158902527135754/picasion.com_df0e1f300f958be190819da22dfb8bdc.gif">
 </div>
   
