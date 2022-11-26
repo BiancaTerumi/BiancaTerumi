@@ -19,4 +19,6 @@
  
   ![Snake animation](https://github.com/BiancaTerumi/BiancaTerumi/blob/output/github-contribution-grid-snake.svg)
  
+  <a href="https://app.daily.dev/bibi"><img src="https://api.daily.dev/devcards/7a4abd8598d3466a831c903de9b22c42.png?r=cpe" width="400" alt="Bianca Terumi's Dev Card"/>   </a>
+  
 </div>
